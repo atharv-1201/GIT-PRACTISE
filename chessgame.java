@@ -76,14 +76,7 @@ class ChessBoard {
     }
 }
 
-class Piece {
-    private final String type;
-    private final boolean isWhite;
 
-    public Piece(String type, boolean isWhite) {
-        this.type = type;
-        this.isWhite = isWhite;
-    }
 
     @Override
     public String toString() {
