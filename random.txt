@@ -1,0 +1,19 @@
+GitHub (/ˈɡɪthʌb/) is a developer platform that allows developers to create, store, manage and share their code. It uses Git software, providing the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.[6] Headquartered in California, it has been a subsidiary of Microsoft since 2018.[7]
+
+It is commonly used to host open source software development projects.[8] As of January 2023, GitHub reported having over 100 million developers[9] and more than 420 million repositories,[10] including at least 28 million public repositories.[11] It is the world's largest source code host as of June 2023.
+
+About
+Founding
+The development of the GitHub platform began on October 19, 2007.[12][13][14] The site was launched in April 2008 by Tom Preston-Werner, Chris Wanstrath, P. J. Hyett and Scott Chacon after it had been available for a few months as a beta release.[15] Its name was chosen as a compound of Git and hub.[16]
+
+Structure of the organization
+GitHub, Inc. was originally a flat organization with no middle managers, instead relying on self-management.[17] Employees could choose to work on projects that interested them (open allocation), but the chief executive set salaries.[18]
+
+In 2014, the company added a layer of middle management in response to serious harassment allegations against its senior leadership. As a result of the scandal, Tom Preston-Werner resigned from his position as CEO.[19]
+
+Finance
+GitHub was a bootstrapped start-up business, which in its first years provided enough revenue to be funded solely by its three founders and start taking on employees.[20]
+
+In July 2012, four years after the company was founded, Andreessen Horowitz invested $100 million in venture capital[6] with a $750 million valuation.[21]
+
+In July 2015 GitHub raised another $250 million (~$314 million in 2023) of venture capital in a series B round. The lead investor was Sequoia Capital, and other investors were Andreessen Horowitz, Thrive Capital, IVP (Institutional Venture Partners) and other venture capital funds.[22][23] The round valued the company at approximately $2 billion.[24]
